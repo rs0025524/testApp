@@ -4,9 +4,6 @@ Third line added.
 This is fourth line.
 Fourth line added.
 Fifth line added.
-<<<<<<< HEAD
 sixth line added.Add here.This is sith line.This is sixth1 line.
 seventh line added.
-=======
 sixth line added.Add here.This is sith line.This is sixth1 line.This is sixth2 line.
->>>>>>> f9d5fdc5ced62a0e0dfd01c82f57bab892874ee2
